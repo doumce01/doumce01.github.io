@@ -2,22 +2,23 @@ ul {
     font-size: 25px;
     font-family: "Blackadder ITC";
   }
-  h1 {
+h1 {
     font-family: "Blackadder ITC";
   }
-  body {
+body {
     background-image: url(http://downingtowneasttheatre.com/wp-content/uploads/2013/11/christmas-snow-background.jpg);
     background-repeat: repeat;
+    border-width: 20px;
   }
-  .high {
+.high {
     color: red;
   }  
-  .medium {
+.medium {
     color: orange;
   } 
-  .low {
+.low {
     color: grey;
   }
-  .done {
+.done {
     text-decoration: line-through;
   } 
