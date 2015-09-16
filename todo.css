@@ -1,1 +1,20 @@
-
+ul {
+    font-size: 25px;
+    font-family: "Blackadder ITC";
+  }
+  body {
+    background-image: url(http://downingtowneasttheatre.com/wp-content/uploads/2013/11/christmas-snow-background.jpg);
+    background-repeat: repeat;
+  }
+  .high {
+    color: red;
+  }  
+  .medium {
+    color: orange;
+  } 
+  .low {
+    color: grey;
+  }
+  .done {
+    text-decoration: line-through;
+  } 
