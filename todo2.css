@@ -15,7 +15,6 @@ body {
     background-color: grey;
   }
 #done {
-    text-decoration: line-through;
     color: cyan;
     background-color: black
 }
