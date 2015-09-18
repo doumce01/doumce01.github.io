@@ -17,8 +17,7 @@ body {
 #done {
     color: cyan;
     background-color: black
-    font-style: line-through;
   } 
-h1#done {
-    color: white;
+li#done {
+    text-decoration: line-through;
 }  
