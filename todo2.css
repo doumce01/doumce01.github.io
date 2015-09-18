@@ -18,6 +18,6 @@ body {
     color: cyan;
     background-color: black;
   } 
-li #done {
+li#done {
     font-style: line-through;
 }  
