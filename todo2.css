@@ -17,7 +17,5 @@ body {
 #done {
     color: cyan;
     background-color: black
-  } 
-li#done {
     text-decoration: line-through;
 }
