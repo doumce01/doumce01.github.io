@@ -11,8 +11,8 @@ ul {
     background-color: orange;
   } 
 #low {
-    color: grey;
-    background-color: black;
+    color: black;
+    background-color: grey;
   }
 #done {
     text-decoration: line-through;
