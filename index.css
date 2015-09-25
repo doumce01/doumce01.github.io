@@ -1,0 +1,19 @@
+nav {
+  position: fixed;
+  height: 30px;
+  background-color: blue;
+  width: 100%;
+}
+nav li {
+  display: inline;
+}
+section {
+  width: 50%;
+  background-color: DarkGray;
+  height: 800px;
+}
+footer {
+  height: 20px
+  background-color: blue;
+  clear: both;
+}
