@@ -19,6 +19,7 @@ section {
   background-color: DarkGray;
   height: 800px;
   float: left;
+  left: 0px;
 }
 article {
   width: 50%;
