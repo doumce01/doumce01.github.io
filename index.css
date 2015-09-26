@@ -25,10 +25,10 @@ section {
   height: 600px;
   float: left;
   left: 0px;
-  margin-top: 40px;
+  margin-top: 31px;
 }
 section p {
-  padding: 5px;
+  padding: 10px;
 }
 section img {
   margin: auto;
@@ -38,13 +38,14 @@ article {
   background color: GhostWhite;
   height: 600px;
   float: left;
-  margin-top: 40px;
+  margin-top: 31px;
+  border-style: dashed;
 }
 article h3 {
-  padding: 5 px;
+  padding: 10 px;
 }
 article p {
-  padding: 5px;
+  padding: 10px;
 }
 footer {
   height: 20px
