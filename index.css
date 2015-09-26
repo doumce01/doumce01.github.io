@@ -17,17 +17,18 @@ nav li:hover {
 section {
   width: 50%;
   background-color: DarkGray;
-  height: 400px;
+  height: 800px;
   float: left;
 }
 article {
-  width: 40%;
+  width: 50%;
   background color: GhostWhite;
-  height: 400px;
+  height: 800px;
   float: left;
 }
 footer {
   height: 20px
-  background-color: blue;
+  background-color: DarkBlue;
   clear: both;
+  color: white;
 }
