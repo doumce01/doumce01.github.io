@@ -53,4 +53,6 @@ footer {
   clear: both;
   color: DarkBlue;
   width: 100%;
+  background-color: red;
+  left-margin: 5px;
 }
