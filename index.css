@@ -1,16 +1,28 @@
 nav {
   position: fixed;
-  height: 30px;
-  background-color: blue;
+  height: 60px;
+  background-color: DarkBlue;
   width: 100%;
 }
 nav li {
   display: inline;
+  color: white;
+  font-size: 25pt;
+}
+nav li:hover {
+  color: DarkGray;
 }
 section {
   width: 50%;
   background-color: DarkGray;
-  height: 800px;
+  height: 400px;
+  float: left;
+}
+article {
+  width: 40%;
+  background color: GhostWhite;
+  height: 400px;
+  float: left;
 }
 footer {
   height: 20px
