@@ -31,8 +31,7 @@ section p {
   padding: 10px;
 }
 section img {
-  position: absolute;
-  margin: auto;
+  width=50%
 }
 article {
   width: 49%;
