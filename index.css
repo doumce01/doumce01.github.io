@@ -2,7 +2,7 @@ nav {
   position: fixed;
   top: 0px;
   left: 0px;
-  height: 60px;
+  height: 30px;
   background-color: DarkBlue;
   width: 100%;
 }
@@ -22,12 +22,14 @@ section {
   height: 600px;
   float: left;
   left: 0px;
+  margin-top: 40px;
 }
 article {
   width: 50%;
   background color: GhostWhite;
   height: 600px;
   float: left;
+  margin-top: 40px;
 }
 footer {
   height: 20px
