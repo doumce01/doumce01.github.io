@@ -20,7 +20,7 @@ nav a:hover {
   color: DarkGray;
 }
 section {
-  width: 50%;
+  width: 49%;
   background-color: DarkGray;
   height: 600px;
   float: left;
@@ -34,7 +34,7 @@ section img {
   margin: auto;
 }
 article {
-  width: 50%;
+  width: 49%;
   background color: GhostWhite;
   height: 600px;
   float: left;
