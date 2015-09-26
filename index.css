@@ -31,7 +31,7 @@ section p {
   padding: 5px;
 }
 section img {
-  position: center;
+  margin: auto;
 }
 article {
   width: 50%;
