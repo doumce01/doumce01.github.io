@@ -20,12 +20,14 @@ section {
   height: 800px;
   float: left;
   left: 0px;
+  padding: 10 px;
 }
 article {
   width: 50%;
   background color: GhostWhite;
   height: 800px;
   float: left;
+  padding: 10px;
 }
 footer {
   height: 20px
