@@ -49,8 +49,7 @@ article p {
 }
 footer {
   height: 20px
-  background-color: Green;
   clear: both;
-  color: white;
+  color: DarkBlue;
   width: 100%;
 }
