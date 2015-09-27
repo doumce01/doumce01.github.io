@@ -18,3 +18,10 @@ nav a {
 }
 nav a:hover {
   color: DarkGray;
+}
+table {
+  margin-top: 31px;
+}
+h2 {
+  margin-top: 31px;
+}
