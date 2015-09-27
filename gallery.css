@@ -1,3 +1,24 @@
 section {
   margin-top: 31px;
 }  
+nav {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 40px;
+  background-color: DarkBlue;
+  width: 100%;
+}
+nav li {
+  display: inline;
+}  
+nav a {  
+  color: white;
+  font-size: 25pt;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+nav a:hover {
+  color: DarkGray;
+}
