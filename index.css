@@ -26,12 +26,15 @@ section {
   float: left;
   left: 0px;
   margin-top: 40px;
+  padding: 10px;
 }
 section p {
   padding: 10px;
 }
 section img {
   width=20%
+  margin-left: auto;
+  margin-right: auto;
 }
 article {
   width: 49%;
