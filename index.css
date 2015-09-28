@@ -29,6 +29,8 @@ section {
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
+  border-style: dashed;
+  border-color: white;
 }
 section img {
   width=20%
@@ -36,7 +38,7 @@ section img {
 article {
   width: 49%;
   background color: GhostWhite;
-  height: 607px;
+  height: 600px;
   float: left;
   margin-top: 40px;
   border-style: dashed;
