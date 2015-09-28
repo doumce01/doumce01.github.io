@@ -22,7 +22,7 @@ nav a:hover {
 section {
   width: 49%;
   background-color: DarkGray;
-  height: 596px;
+  height: 600px;
   float: left;
   left: 0px;
   margin-top: 40px;
@@ -40,6 +40,11 @@ article {
   float: left;
   margin-top: 40px;
   border-style: dashed;
+}
+article h2{
+  padding: 10px;
+}
+article ol{
   padding: 10px;
 }
 footer {
