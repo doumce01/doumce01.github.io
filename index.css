@@ -27,19 +27,16 @@ section {
   left: 0px;
   margin-top: 40px;
   padding: 10px;
-}
-section p {
-  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
 section img {
   width=20%
-  margin-left: auto;
-  margin-right: auto;
 }
 article {
   width: 49%;
   background color: GhostWhite;
-  height: 596px;
+  height: 600px;
   float: left;
   margin-top: 40px;
   border-style: dashed;
