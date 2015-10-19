@@ -1,6 +1,6 @@
 add = function () {
   var text, list, item, box, itemtext
-  list = document.querySelector("tasklist");
+  list = document.querySelector("#tasklist");
   item = document.createElement("li");
   item.className = priority.value;
   
