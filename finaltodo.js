@@ -1,7 +1,8 @@
 add = function () {
   var text, list, item, box, itemtext
-  list = document.body.ul;
+  list = document.querySelector("tasklist");
   item = document.createElement("li");
+  item.className = priority.value;
   
   box = document.createElement("input");
   box.type = "checkbox";
