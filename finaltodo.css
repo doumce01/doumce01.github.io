@@ -3,10 +3,12 @@ h1 {
 }
 ul {
   height: 400px;
-  width: 600px;
+  width: 50%;
+  margin: auto;
   background-color: CornflowerBlue;
 }
 section {
-  width: 600px;
+  width: 50%;
+  margin: auto;
   background-color: CornflowerBlue;
 }
