@@ -7,9 +7,14 @@ add = function () {
   box = document.createElement("input");
   box.type = "checkbox";
   item.appendChild(box);
+  box.onclick = boxChecked
   
   text = document.querySelector("#text").value;
   itemtext = document.createTextNode(text);
   item.appendChild(itemtext);
   list.appendChild(item);
+}
+
+boxChecked = function() {
+  this.parentNode.classList.add("done");
 }
