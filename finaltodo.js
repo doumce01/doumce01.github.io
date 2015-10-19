@@ -1,4 +1,6 @@
 add = function () {
+  document.body.style.backgroundColor = "black";
+  
   var text, list, item, box, itemtext
   list = document.body.ul;
   item = document.createElement("li");
