@@ -12,3 +12,15 @@ section {
   margin: auto;
   background-color: CornflowerBlue;
 }
+.high {
+  color: red;
+}
+.medium {
+  color: orange;
+}
+.low {
+  color: white;
+}
+.done {
+  text-decoration: line-through;
+}
