@@ -19,5 +19,9 @@ add = function () {
 }
 
 boxChecked = function() {
-  this.parentNode.classList.add("done");
+  if (this.checked) {
+    this.parentNode.classList.add("done");
+  } else{
+    this.parentNode.classList.remove("done");
+  }  
 }
