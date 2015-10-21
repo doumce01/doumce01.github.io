@@ -16,6 +16,8 @@ add = function () {
   priority = document.querySelector("#priority");
   item.classList.add(priority.value);
   item.className = priority.value;
+  
+  localSave("tasklist")
 }
 
 boxChecked = function() {
@@ -25,3 +27,5 @@ boxChecked = function() {
     this.parentNode.classList.remove("done");
   }  
 }
+
+
