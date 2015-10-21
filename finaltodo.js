@@ -14,8 +14,8 @@ add = function () {
   item.appendChild(itemtext);
   list.appendChild(item);
   
-  priority = document.querySelector("#priority");
-  item.classList.add(priority.value);
+  //priority = document.querySelector("#priority");
+  //item.classList.add(priority.value);
 }
 
 boxChecked = function() {
