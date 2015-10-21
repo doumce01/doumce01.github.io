@@ -1,5 +1,5 @@
 add = function () {
-  var text, list, item, box, itemtext
+  var text, list, item, box, itemtext, priority
   list = document.querySelector("#tasklist");
   item = document.createElement("li");
   item.className = priority.value;
@@ -13,6 +13,9 @@ add = function () {
   itemtext = document.createTextNode(text);
   item.appendChild(itemtext);
   list.appendChild(item);
+  
+  priority = document.querySelector("#priority");
+  item.classList.add(priority.value);
 }
 
 boxChecked = function() {
