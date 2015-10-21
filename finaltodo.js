@@ -20,5 +20,4 @@ add = function () {
 
 boxChecked = function() {
   this.parentNode.classList.add("done");
-  this.parentNode.remove;
 }
