@@ -2,7 +2,6 @@ add = function () {
   var text, list, item, box, itemtext, priority
   list = document.querySelector("#tasklist");
   item = document.createElement("li");
-  item.className = priority.value;
   
   box = document.createElement("input");
   box.type = "checkbox";
@@ -16,6 +15,7 @@ add = function () {
   
   priority = document.querySelector("#priority");
   item.classList.add(priority.value);
+  item.className = priority.value;
 }
 
 boxChecked = function() {
