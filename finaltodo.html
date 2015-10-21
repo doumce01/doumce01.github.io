@@ -4,6 +4,7 @@
     <link rel=stylesheet href=finaltodo.css type=text/css />
   </head>  
 <script type="text/javascript" src = "finaltodo.js"></script>
+<script type="text/javascript" src="http://bnmnetp.github.io/CS130/listsaver.js"></script> 
 <body>
   <h1>What do I need to do?</h1>
   <ul id="tasklist"></ul>
@@ -19,4 +20,7 @@
     <button onclick="add();">New</button>
   </section>  
 </body>
+<script type="text/javascript">
+    window.onload = function() { restoreList("tasklist", doneTask) }
+</script>
 </html>
