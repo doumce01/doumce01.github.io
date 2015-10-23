@@ -17,6 +17,7 @@ add = function () {
   item.classList.add(priority.value);
   item.className = priority.value;
   
+  task.value = "";
   localSave("tasklist")
 }
 
